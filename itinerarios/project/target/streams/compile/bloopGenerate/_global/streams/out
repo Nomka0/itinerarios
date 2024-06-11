@@ -1,0 +1,4 @@
+[debug] [itinerarios-build] Classpath dependencies List()
+[debug] [itinerarios-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'itinerarios-build' to '/home/nomka/scala-projects/THE_HEIST/heist4/itinerarios/itinerarios/project/.bloop/itinerarios-build.json'
+[success] Generated .bloop/itinerarios-build.json
